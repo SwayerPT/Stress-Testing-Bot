@@ -1,6 +1,8 @@
 # STB - Stress Testing Bot Overview
 A Comprehensive and Complete Tool for Network and HTTP Load Testing Servers
 
+Download the latest version on <a href='https://github.com/SwayerPT/Stress-Testing-Bot/releases'>Releases</a>
+
 ## Project
 
 A powerful and flexible stress testing bot for evaluating network performance and HTTP server response under heavy loads. This bot simulates requests to assess server resilience and identify potential issues.
