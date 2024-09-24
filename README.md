@@ -12,19 +12,16 @@ A powerful and flexible stress testing bot for evaluating network performance an
 - **Dual Testing Capabilities**: 
   - **PING (ICMP) Flooding**: Measures network latency and packet loss.
   - **HTTP Request Flooding**: Tests server response under heavy web traffic.
-  
 - **Progressive Load Testing**: Gradually increases the load (number of requests) to assess server performance over time.
-
 - **Real-time Logging**: Logs results with timestamps, providing immediate feedback on test results.
-
 - **Command Line Interface (CLI)**: Easy to use, with simple commands for initiating tests.
+- - **[Space] to Stop**: Successfully there's a way to cancel a stress test, pressing 1x on [SPACE].
 
 ## Prerequisites
 
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 - **Run 1**: Click on install.bat to install all the module. After installed automaticly will start the bot without more things to do.
 - **Run 2**: Click on start.bat to start everyday.
-- **Stop**: Everytime you use Ping or Http, use SPACE key to stop all requests successfull.
 
 ## Warning
 - (This is a complete Stresser with verifications and code well strutured.)
