@@ -24,6 +24,7 @@ A powerful and flexible stress testing bot for evaluating network performance an
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 - **Run 1**: Click on install.bat to install all the module. After installed automaticly will start the bot without more things to do.
 - **Run 2**: Click on start.bat to start everyday.
+- **Stop**: Everytime you use Ping or Http, use SPACE key to stop all requests successfull.
 
 ## Warning
 - (This is a complete Stresser with verifications and code well strutured.)
